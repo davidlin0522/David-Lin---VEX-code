@@ -1,4 +1,4 @@
-# VEXcode summer testing
+# VEXcode summer testing/competition code
 Codebase built on top of the VEX IDE, VEX code
 
 # Competition Code for VEX robotics team 
